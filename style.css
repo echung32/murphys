@@ -1,0 +1,18 @@
+#topMenu,
+.green {
+    background-color: green;
+}
+
+.white {
+    color: white;
+}
+
+#brand {
+    width: 250px;
+}
+
+#background {
+    background: url("https://courses.ics.hawaii.edu/ics314f22/morea/ui-frameworks/murphys-new-background.jpeg");
+    background-size: cover;
+    height: 80vh;
+}
